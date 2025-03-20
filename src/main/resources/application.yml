@@ -20,3 +20,16 @@ logging:
     org.springframework.cache: trace # Redis ??? ?? ??? ????? ?? (?? ??, ?? ? ? ???? ? ? ??)
 
 
+---
+
+spring:
+  config:
+    activate:
+      on-profile: prod
+  datasource:
+    url: jdbc:mysql://instagram-db.ca9ec84cia66.us-east-1.rds.amazonaws.com/mydb
+    username: admin
+    password: sns54466549!
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+
