@@ -22,4 +22,5 @@
 
 
 
-  
+- 과금방지 다시 공부할 때 엑세스 가능으로 변경  
+![image](https://github.com/user-attachments/assets/a790f053-b564-4991-bff4-0a9594b2b34c)
