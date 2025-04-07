@@ -19,8 +19,3 @@
 ### 레디스(캐싱) 후 측정
 ![image](https://github.com/user-attachments/assets/c00b364c-dc26-48d4-9064-a68a11961ec0)
 - 레디스 후 Trougput은 25.3TPS(1초당 25.3개 요청을 처리 할 수 있다)
-
-
-- ec2 버즈니아 북부로 만들어졌음
-- 과금방지 다시 공부할 때 엑세스 가능으로 변경  
-![image](https://github.com/user-attachments/assets/a790f053-b564-4991-bff4-0a9594b2b34c)
